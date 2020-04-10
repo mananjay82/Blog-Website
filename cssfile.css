@@ -1,0 +1,153 @@
+body
+{
+    color:black;
+    background-image:url("thumbnail_lightwoodfloor.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:scroll;
+    background-position:center;
+    margin:0px;
+    padding:0px;
+}
+p
+{
+    color:white;
+    font-size:17px;
+    margin:10px;
+}
+header
+{
+    background:#000000;
+    height:80px;
+}
+#left-nav
+{
+    float:left;
+}
+#right-nav
+{
+    float:right;
+}
+#right-nav li
+{
+    display:inline-block;
+    margin:10px;
+}
+ul li
+{
+    list-style-type: none;
+}
+a
+{color:#fff;
+ text-decoration:none;
+}
+footer
+{
+    clear:both;
+    background:#000000;
+    text-align: center;
+    margin-top: 250px;
+    padding:10px;
+    color:#fff;
+}
+section
+{
+   background:black;
+   border:solid;
+   color:white;
+   padding:10px;
+   margin-top:20px;
+   margin-left:30px;
+   margin-right:550px;
+   margin-bottom:70px;
+
+}
+.section2
+{
+   background:black;
+   border:solid;
+   padding:10px;
+   margin-top:-400px;
+   margin-left:30px;
+   margin-right:550px;
+   margin-bottom:20px;
+}
+.section3
+{
+  background:pink;
+   border:solid;
+   color:black;
+   font-color:black;
+   padding:10px;
+   margin-top:-500px;
+   margin-left:1050px;
+   margin-right:70px;
+   margin-bottom:550px;
+}
+.sec4
+{
+ 
+   background:pink;
+   border:solid;
+   color:black;
+   font-color:black;
+   padding:10px;
+   margin-top:-400px;
+   margin-left:1050px;
+   margin-right:70px;
+   margin-bottom:50px;
+}
+.a1
+{
+  color:blue;
+}
+.a0
+{
+  color:blue;
+}
+ .a2
+{
+  color:blue;
+}
+ .a3
+{
+  color:blue;
+}  
+.a4
+{
+  color:blue;
+}  
+.a5
+{
+  color:blue;
+} 
+.a6
+{
+  color:blue;
+}
+.a7
+{
+  color:blue;
+}  
+.a8
+{
+  color:blue;
+}
+.a9
+{
+  color:blue;
+}  
+.a10
+{
+  color:blue;
+} 
+.in1
+{
+   background-color:red;
+   color:white;
+}
+.in2
+{
+   background-color:red;
+   color:white;
+}              

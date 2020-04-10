@@ -1,0 +1,77 @@
+body
+{
+  margin:0;
+  padding:0;
+}
+h1
+{
+   margin-top:50;
+   color:Red;
+   margin-left:100;
+}
+h2
+{
+  margin-top:-20;
+  margin-left:100;
+}
+p
+{
+   font-size:22;
+   margin-left:100;
+}
+header
+{
+    background:black;
+    height:80;
+}
+#left-nav
+{
+  float:left;
+}
+#right-nav
+{
+   float:right;
+}
+#right-nav li
+{
+   display:inline-block;
+   margin:20;
+}
+ul li
+{
+   list-style-type:none;
+}
+a
+{
+  color:white;
+  text-decoration:none;
+}
+footer
+{
+  clear:both;
+  background:black;
+  text-align:center;
+  margin-top:92;
+  padding:10;
+  color:white;
+}
+section
+{
+   margin-left:700;
+   margin-top:-420;
+ }
+input
+{
+  width:350;
+  height:35;
+}
+textarea
+{
+  height:180;
+  width:350;
+}
+.i1
+{
+   background-color:red;
+   color:white;
+}

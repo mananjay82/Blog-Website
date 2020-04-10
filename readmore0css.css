@@ -1,0 +1,60 @@
+body
+{
+   background-image:url("thumbnail_lightwoodfloor.jpg");
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-attachment:scroll;
+   background-position:center;
+   margin:0;
+   padding:0;
+}
+header
+{ 
+   height:80;
+   background:black;
+}
+#left-nav
+{
+   float:left;
+}
+#right-nav
+{
+  float:right;
+}
+#right-nav li
+{ 
+   display:inline-block;
+   margin:20;
+}
+ul li
+{
+  list-style-type:none;
+}
+a
+{ 
+ color:white;
+ text-decoration:none;
+}
+footer
+{
+  clear:both;
+  background:black;
+  text-align:center;
+  margin-top:20;
+  padding:10;
+  color:white;
+}
+p
+{ 
+  font-size:19;
+  padding:10;
+}
+h2
+{
+  padding:20;
+}
+b
+{
+   font-size:25;
+}
+   
